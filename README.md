@@ -39,7 +39,7 @@ Utilibox makes managing your energy simpler and user-friendly.
 
 ![Dashboard](Resources/Images/Dashboard.png)
 
-## Portfolio and sites
+## Portfolio and Sites
 **All your data in one place**
 
 Utilibox’ site page gives customers a simple, single-screen view of all their supply point data, whether it's for electricity, gas, or water, and regardless of the size or metering of the site.
@@ -78,17 +78,62 @@ By providing personalized insights on reducing emissions, Utilibox encourages us
 
 ![NetZero](<Resources/Images/Net Zero.png>)
 
+## Reports
+**Data at your fingertips**
+
+Utilibox' reports feature helps optimise your financial and energy strategies with comprehensive insights.
+
+    * Spend Reports - understand your spending trends and make informed financial decisions.
+    * Usage Reports - aids in identifying usage patterns and implementing efficiency measures.
+    * Emissions Reports - facilitates the tracking and strategising for businesses carbon reduction efforts.
+    
+![Reports](Resources/Images/Reports.png)
+    
+## Admin
+**Take control**
+
+Utilibox help seamlessly manage your company's details, user roles, and communications all in one centralised hub. Tailor the platform to your corporate identity, efficiently oversee subsidiaries, streamline authorisation processes, and simplify bill handling.
+
+*Organisational Configuration*
+Ensures the platform aligns with the company's fiscal calendar and corporate identity. 
+
+*Organisation Tree*
+Allows for structured representation and management of your extended entities. Facilitates managing various subsidiaries and associated sites within the broader organisational structure.
+
+*Letter of Authorities (LOA)*
+Streamlines authorisation processes, ensuring seamless business operations. Utilibox has a dedicated UI and wizard for adding or crafting LOA’s associated with different company names or ABN’s.
+
+*Mailbox*
+Facilitates the receipt and processing of Supplier invoice emails: 
+    * Invoices received are auto loaded and processed for payment reporting.
+    * Non invoice notifications can be processed by rule, forwarded to specific recipients or groups
+
+*Retailer Portal Logins*
+You can securely record your retailer portal login details. This enables automatic scraping of portal logins to download bills. This minimises bill handling, reducing time spent and potential errors.
+
+![Admin](Resources/Images/Admin.png)
+
+
 ## Security
 ### Proactive approach to keeping your data safe
 
-### *Two out Three Ain't Bad*
+#### ***Two out Three Ain't Bad***
 When it comes to authentication, one out of three factors (password-only) is bad.  Multifactor authentication (MFA) on the other hand isn't.  Utilibox employs MFA to ensure that the user attempting to login is who they claim to be, so your data doesn't fall into the wrong hands.
 
-### *OLA not BOLA*
+#### *OLA not BOLA*
 Utilibox has been written ground-up with customer cybersecurity at the forefront of the architecture.  We have employed stringent Object Level Authorization design which ensures your security amongst our other secure clients.
 
 #### *Australian Privacy Regulations*
 Utilibox adheres to the regulations set forth in the Australian Privacy Act 1988. We implement stringent data protection measures, which include encrypted data storage for sensitive data, secure data transfer practices, and regular audits to ensure ongoing compliance.  Our data is stored only within Australian Azure data centers.
 
-### *Energy Action Employees are Cyber-Guardians*
+#### *Energy Action Employees are Cyber-Guardians*
 All Energy Action employees understand that they're integral to our cybersecurity fortress.  Energy Action employees undergo regular cybersecurity training and participate in drills to make sure they can detect and respond quickly and effectively in the event of a security incident.
+
+
+
+
+### **Find out more about how we can support your business energy and emission management**
+
+Visit [energyaction.com.au](energyaction.com.au)
+or email us at [info@energaction.com.au](info@energaction.com.au)
+
