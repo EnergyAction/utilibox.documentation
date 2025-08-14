@@ -11,7 +11,19 @@ Utilibox' portfolio provides a single hub for viewing site-specific energy data.
 
 Utilibox uses AI to gather and transform data and delivers data integration with self-serve energy data analysis.
 
-## The energy challenge – data integration
+## Table of Contents
+
+- [The energy challenge – Data Integration](#the-energy-challenge--data-integration)
+- [Dashboard](#dashboard)
+- [Portfolio and Sites](#portfolio-and-sites)
+- [Procurement](#procurement)
+- [Finance](#finance)
+- [Net Zero](#net-zero)
+- [Reports](#reports)
+- [Admin](#admin)
+- [Security](#security)
+
+## The energy challenge – Data Integration
 **Energy simplified**
 
 Utilibox offers customers a user-friendly way to navigate the often-complex energy markets. Breaking down complicated energy data sets, making things like invoices, meter data, network tariffs, and supply point details easier to understand and manage.
