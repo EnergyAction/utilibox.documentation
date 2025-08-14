@@ -32,6 +32,8 @@ Energy users can now handle their energy data more effectively and without hassl
 
 ![EnergySimplifiedFlow](Resources/Images/Flowchart.png)
 
+[Back to Table of Contents](#table-of-contents)
+
 ## Dashboard
 **Energy Basics**
 
@@ -51,6 +53,8 @@ Utilibox makes managing your energy simpler and user-friendly.
 
 ![Dashboard](Resources/Images/Dashboard.png)
 
+[Back to Table of Contents](#table-of-contents)
+
 ## Portfolio and Sites
 **All your data in one place**
 
@@ -60,6 +64,8 @@ The page also offers access to contract and meter data and even allows customers
 
 ![PortfolioSites](Resources/Images/PortfolioSites.png)
 
+[Back to Table of Contents](#table-of-contents)
+
 ## Procurement
 **Agile procurement**
 
@@ -68,6 +74,8 @@ Utilibox offers tools for understanding energy market data, handling procurement
 On the contract management side, Utilibox serves as a storage for contract documents, tracking contract prices, and sending alerts about contract end dates. Making it easier for businesses to keep on top of their energy markets and contracts.
 
 ![Procurement](Resources/Images/Procurement.png)
+
+[Back to Table of Contents](#table-of-contents)
 
 ## Finance
 **Financial efficiency**
@@ -82,6 +90,8 @@ Utilibox' finance module is all about making financial tasks simpler:
 
 ![Finance](Resources/Images/Finance.png)
 
+[Back to Table of Contents](#table-of-contents)
+
 ## Net Zero
 **Zeroing in**
 
@@ -90,6 +100,8 @@ Utilibox' Net Zero feature actively supports users in beginning their journey to
 By providing personalized insights on reducing emissions, Utilibox encourages users to actively participate in lowering their carbon footprint.
 
 ![NetZero](<Resources/Images/Net Zero.png>)
+
+[Back to Table of Contents](#table-of-contents)
 
 ## Reports
 **Data at your fingertips**
@@ -101,7 +113,9 @@ Utilibox' reports feature helps optimise your financial and energy strategies wi
     * Emissions Reports - facilitates the tracking and strategising for businesses carbon reduction efforts.
     
 ![Reports](Resources/Images/Reports.png)
-    
+
+[Back to Table of Contents](#table-of-contents)
+
 ## Admin
 **Take control**
 
@@ -126,6 +140,7 @@ You can securely record your retailer portal login details. This enables automat
 
 ![Admin](Resources/Images/Admin.png)
 
+[Back to Table of Contents](#table-of-contents)
 
 ## Security
 ### Proactive approach to keeping your data safe
@@ -142,7 +157,7 @@ Utilibox adheres to the regulations set forth in the Australian Privacy Act 1988
 #### *Energy Action Employees are Cyber-Guardians*
 All Energy Action employees understand that they're integral to our cybersecurity fortress.  Energy Action employees undergo regular cybersecurity training and participate in drills to make sure they can detect and respond quickly and effectively in the event of a security incident.
 
-
+[Back to Table of Contents](#table-of-contents)
 
 
 ### **Find out more about how we can support your business energy and emission management**
@@ -150,3 +165,4 @@ All Energy Action employees understand that they're integral to our cybersecurit
 Visit [energyaction.com.au](energyaction.com.au)
 or email us at [info@energaction.com.au](info@energaction.com.au)
 
+[Back to Table of Contents](#table-of-contents)
