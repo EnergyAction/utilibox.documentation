@@ -2,8 +2,8 @@
 
 ## Content
 
-+ Invoice Upload
-+ Meter Data Upload
++ [Invoice Upload](#invoice-upload)
++ [Meter Data Upload](#meter-data-upload)
 
 ## INVOICE UPLOAD
 This feature allows you to upload invoices manually/import a template to parse and create the invoice record to its respective organisation.
