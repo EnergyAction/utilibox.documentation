@@ -30,6 +30,8 @@ Utilibox offers customers a user-friendly way to navigate the often-complex ener
 
 Energy users can now handle their energy data more effectively and without hassle.
 
+*Explore* [Data Integration](DataIntegration.md)
+
 ![EnergySimplifiedFlow](Resources/Images/Flowchart.png)
 
 [Back to Table of Contents](#table-of-contents)
@@ -164,5 +166,6 @@ All Energy Action employees understand that they're integral to our cybersecurit
 
 Visit [energyaction.com.au](energyaction.com.au)
 or email us at [info@energaction.com.au](info@energaction.com.au)
+
 
 [Back to Table of Contents](#table-of-contents)
