@@ -1,4 +1,4 @@
-# Invoice Upload
+## INVOICE UPLOAD
 This feature allows you to upload invoices manually/import a template to parse and create the invoice record to its respective organisation.
 ![alt text](<Resources/Invoice Upload/InvoiceUpload1.png>)
 
@@ -9,28 +9,28 @@ This feature allows you to upload invoices manually/import a template to parse a
 - Clicking on the Upload file button
 ![alt text](<Resources/Invoice Upload/InvoiceUpload3.png>)
 
-    1. File Explorer will open > navigate to where invoices to upload are stored/saved
-![alt text](<Resources/Invoice Upload/InvoiceUpload4.png>)
-    
-    2. Select the file/s to be uploaded --- can be multiple, and click Open
-![alt text](<Resources/Invoice Upload/InvoiceUpload5.png>)
+   1. File Explorer will open > navigate to where invoices to upload are stored/saved
+    ![alt text](<Resources/Invoice Upload/InvoiceUpload4.png>)
 
-    3. This will upload the files as shown below and ready to be processed, Click on process to proceed with parsing the invoices.
-![alt text](<Resources/Invoice Upload/InvoiceUpload6.png>)
+   2. Select the file/s to be uploaded --- can be multiple, and click Open
+   ![alt text](<Resources/Invoice Upload/InvoiceUpload5.png>)
+   
+   3. This will upload the files as shown below and ready to be processed, Click on process to proceed with parsing the invoices.
+   ![alt text](<Resources/Invoice Upload/InvoiceUpload6.png>)
 
-    4. Upon processing, the status of each invoice will be shown on the “Processing Status” column.
-![alt text](<Resources/Invoice Upload/InvoiceUpload7.png>)
+   4. Upon processing, the status of each invoice will be shown on the “Processing Status” column.
+   ![alt text](<Resources/Invoice Upload/InvoiceUpload7.png>)
 
-    5. And will show the final status once done.
-![alt text](<Resources/Invoice Upload/InvoiceUpload8.png>)
+   5. And will show the final status once done.
+   ![alt text](<Resources/Invoice Upload/InvoiceUpload8.png>)
 
-    6. User can remove/view/reparse a file > a delete, view and reparse button are available at the end of each invoice line.
-![alt text](<Resources/Invoice Upload/InvoiceUpload9.png>)
+   6. User can remove/view/reparse a file > a delete, view and reparse button are available at the end of each invoice line.
+   ![alt text](<Resources/Invoice Upload/InvoiceUpload9.png>)
 
 - Importing a template – in instances where an excel file is provided with invoice details, this option can be used to process and link the individual invoices to its corresponding organisation.
 
     1. Click on the Import Template button at the top right corner of the screen.
-![alt text](<Resources/Invoice Upload/InvoiceUpload10.png>)
+    ![alt text](<Resources/Invoice Upload/InvoiceUpload10.png>)
 
     2. This will download an excel template to where the details are entered following the format necessary to successfully parse the invoice details.
    
