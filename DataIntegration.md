@@ -65,13 +65,13 @@ This feature allows you to upload meter data manually to parse and create the me
 #### *Clicking on the Upload file button*
 ![alt text](<Resources/Invoice Upload/InvoiceUpload3.png>)
 
-   1. File Explorer will open > navigate to where meter data file to upload are stored/saved and select the file/s to be uploaded --- can be multiple, and click Open 
+   1. File Explorer will open > navigate to where meter data file to upload are stored/saved and select the file/s to be uploaded --- can be multiple, and click Open  
    ![alt text](<Resources/Meter Data Upload/MeterDataUpload3.png>)
 
-   2. This will upload the files as shown below and ready to be processed, Click on process to proceed with parsing the meter data file 
+   2. This will upload the files as shown below and ready to be processed, Click on process to proceed with parsing the meter data file  
    ![alt text](<Resources/Meter Data Upload/MeterDataUpload4.png>)
 
-   3. Upon processing, the status of each file will be shown on the “Processing Status” column (user can also choose to cancel the process if needed) 
+   3. Upon processing, the status of each file will be shown on the “Processing Status” column (user can also choose to cancel the process if needed)  
    ![alt text](<Resources/Meter Data Upload/MeterDataUpload5.png>)  
    And will show the final status once done.
    
