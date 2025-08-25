@@ -1,15 +1,9 @@
 # Unboxing Utilibox
-Documentation for Utilibox
-
 ![Utilibox Logo](Resources/Images/UtiliboxLogoRGB.png)
 
-Utilibox' portfolio provides a single hub for viewing site-specific energy data.
-
-* Finance assists with payments, overdue alerts, and budgeting.
-* Procurement handles contract management and market alerts.
-* Net Zero focuses on emissions reporting and net zero strategy analysis. 
-
-Utilibox uses AI to gather and transform data and delivers data integration with self-serve energy data analysis.
+<table>
+<tr>
+<td width="250" valign="top">
 
 ## Table of Contents
 
@@ -22,6 +16,17 @@ Utilibox uses AI to gather and transform data and delivers data integration with
 - [Reports](#reports)
 - [Admin](#admin)
 - [Security](#security)
+
+</td>
+<td valign="top">
+
+Utilibox' portfolio provides a single hub for viewing site-specific energy data.
+
+* Finance assists with payments, overdue alerts, and budgeting.
+* Procurement handles contract management and market alerts.
+* Net Zero focuses on emissions reporting and net zero strategy analysis. 
+
+Utilibox uses AI to gather and transform data and delivers data integration with self-serve energy data analysis.
 
 ## The energy challenge – Data Integration
 **Energy simplified**
@@ -169,3 +174,7 @@ or email us at [info@energaction.com.au](info@energaction.com.au)
 
 
 [Back to Table of Contents](#table-of-contents)
+
+</td>
+</tr>
+</table>
